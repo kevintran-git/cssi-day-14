@@ -15,7 +15,7 @@ funAnimals.push({
 funAnimals.push({
     name: "burger",
     type: "turtle",
-    reason: "burger shaped"
+    reason: "he's pissed bc I held him like a burger dont be burger shaped then idiot"
 })
 
 for (let animal of funAnimals) {
